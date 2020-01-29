@@ -1,0 +1,6 @@
+C:\Users\SMRUTI\source\repos\ArrayWord\ArrayWord\bin\Debug\ArrayWord.exe.config
+C:\Users\SMRUTI\source\repos\ArrayWord\ArrayWord\bin\Debug\ArrayWord.exe
+C:\Users\SMRUTI\source\repos\ArrayWord\ArrayWord\bin\Debug\ArrayWord.pdb
+C:\Users\SMRUTI\source\repos\ArrayWord\ArrayWord\obj\Debug\ArrayWord.csprojAssemblyReference.cache
+C:\Users\SMRUTI\source\repos\ArrayWord\ArrayWord\obj\Debug\ArrayWord.exe
+C:\Users\SMRUTI\source\repos\ArrayWord\ArrayWord\obj\Debug\ArrayWord.pdb
